@@ -10,7 +10,7 @@ Atualmente, estou trabalhando no desenvolvimento do back-end do projeto, estabel
 # O que vem a seguir?
 Nos próximos passos, pretendo:
 
-# Aperfeiçoar a integração com o banco de dados.
+Aperfeiçoar a integração com o banco de dados.
 Desenvolver funcionalidades adicionais para otimizar o gerenciamento das clínicas.
 Melhorar a interface de usuário e a experiência geral do sistema.
 Agradeço por acompanhar o desenvolvimento do Medmind. Fique à vontade para contribuir ou sugerir melhorias!
